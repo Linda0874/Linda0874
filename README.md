@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ..code.
 - 💞️ I’m looking to collaborate on .projects..
 - 📫 How to reach me ..more.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .music and dance..
+  - ⚡ Fun fact: .music and dance..
 
 <!---
 Linda0874/Linda0874 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
